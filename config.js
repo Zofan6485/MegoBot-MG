@@ -7,22 +7,22 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "*『🔥┇𝙼𝙴𝙶𝙾-𝙱𝙾𝚃』*"
+global.botnumber = "*『🔥┇𝑱𝑼𝑳𝑰𝑼𝑺 𝑩.𝑶.𝑻』*"
 global.confirmCode = ""
 
-global.owner = [['201012531172', '𝙢,𝙚,𝙜,𝙤, ❦︎', true],
+global.owner = [['201273070745', '𝑱,𝑼,𝑳, ❦︎', true],
 ];
 
-global.suittag = ['201025663589'];
-global.prems = ['201025663589'];
+global.suittag = ['201273070745'];
+global.prems = ['201273070745'];
 
-global.packname = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.author = '✩𝙼𝙴𝙶𝙾-𝙱𝙾𝚃☆';
-global.wm = '✯𝐌𝐄𝐆𝐎𝐁𝐎𝐓-𝐌𝐃✯';
+global.packname = '☾︎ 𝑱𝑼𝑳𝑰𝑼𝑺 𝑩.𝑶.𝑻 ☽︎';
+global.author = '𝑱,𝑼,𝑳✩-𝙱𝙾𝚃☆';
+global.wm = '✯𝑱𝑼𝑳𝑰𝑼𝑺 𝑩.𝑶.𝑻-𝐌𝐃✯';
 global.vs = 'V2 • 1.0.5':
-global.titulowm = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.titulowm2 = `☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`
-global.igfg = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
+global.titulowm = '☾︎ 𝑱𝑼𝑳𝑰𝑼𝑺 𝑩.𝑶.𝑻-𝙈𝘿 ☽︎';
+global.titulowm2 = `☾︎ 𝑱𝑼𝑳𝑰𝑼𝑺 𝑩.𝑶.𝑻-𝙈𝘿 ☽︎`
+global.igfg = '☾︎ 𝑱𝑼𝑳𝑰𝑼𝑺 𝑩.𝑶.𝑻-𝙈𝘿 ☽︎';
 global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
